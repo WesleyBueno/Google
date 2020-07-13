@@ -1,0 +1,32 @@
+.op{
+    color: black;
+    text-align: right;
+}
+.perfil{
+    border-radius: 50%;
+    
+}
+.cabeçalho{
+    
+    text-align: right;
+}
+.logo{
+    text-align: center;
+    
+}
+
+button{
+color: gray;
+border: none;
+width: 150px;
+border-radius: 5px;
+
+}
+
+.container {
+    text-align:center;
+    padding-top:3%;
+    width: 700px;
+  }
+  
+     
